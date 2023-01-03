@@ -1,1 +1,1 @@
-print('Hello World from mcd')
+print('Hello World from mcdtest')
